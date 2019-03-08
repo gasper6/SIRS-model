@@ -1,0 +1,26 @@
+2019-03-06 20:03:52.463152
+
+time step: 0.001
+tmax: 1e+02
+taumax: 1e+02
+ximax: 1e+02
+
+beta: 40
+x: 0.2
+nu: 0.02
+mu: 0.02
+gamma: 36
+GMT0: 1.91e+03
+w_tau: 0.069
+w_xi: 0.069
+sigma: 0.92
+Ccrit: 1.5e+02
+
+min(PR): 1.1e-06
+
+min(PV): 1.1e-06
+
+1 - mu*x*(np.sum(PV)*dt):
+0.8523
+(gamma + muM)/beta:
+0.9130
